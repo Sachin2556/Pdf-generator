@@ -16,7 +16,7 @@ A full-stack application for creating custom canvas drawings and exporting them 
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://sksinha2410.github.io/canvas-to-pdf/](https://sksinha2410.github.io/canvas-to-pdf/)
+Visit the live application: [https://sachin2556.github.io/Pdf-generator/](https://sachin2556.github.io/Pdf-generator/)
 
 ## 📸 Screenshots
 
@@ -62,7 +62,7 @@ No installation needed! Simply open `public/index.html` in a web browser or depl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sksinha2410/canvas-to-pdf.git
+git clone https://github.com/Sachin2556/Pdf-generator.git
 cd canvas-to-pdf
 ```
 
